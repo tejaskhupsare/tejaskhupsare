@@ -1,6 +1,6 @@
 - 👋 Hi..
-- 📔 I’m a student
-- 🌱 I’m currently learning web development
+- 📔 I’m a front-end web developer
+- 🌱 I’m currently learning ReactJS
 
 <!---
 this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
