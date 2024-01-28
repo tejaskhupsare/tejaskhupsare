@@ -1,6 +1,6 @@
 - 👋 Hi.. I'm Tejas
 - 💻 I’m a front-end web developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning something
 
 
 <!---
